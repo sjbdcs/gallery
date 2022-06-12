@@ -1,11 +1,11 @@
-baseURL = "https://netlify-photo-gallery.netlify.com/"
+baseURL = "https://photos.sjbdcs.org/"
 languageCode = "en-us"
-title = "Netlify photo gallery"
+title = "St John Photo Gallery"
 
 [menu]
   [[menu.main]]
     identifier = "top"
-    name = "Home"
+    name = "Index"
     url = "/"
   [[menu.main]]
     identifier = "photos_m"
@@ -15,3 +15,11 @@ title = "Netlify photo gallery"
     identifier = "photos_s"
     name = "Photo gallery (square)"
     url = "/photos_s/"
+  [[menu.main]]
+    identifier = "photos_s"
+    name = "Photo gallery (square)"
+    url = "/photos_s/"
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "https://sjbdcs.org"
