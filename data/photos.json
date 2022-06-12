@@ -1,14 +1,13 @@
 [
-    { "name": "Apple", "src": "/images/apple.jpg" },
-    { "name": "Apple2", "src": "/images/apple2.jpg" },
-    { "name": "Apple3", "src": "/images/apple3.jpg" },
-    { "name": "Apple4", "src": "/images/apple4.jpg" },
-    { "name": "Apple5", "src": "/images/apple5.jpg" },
-    { "name": "Apple6", "src": "/images/apple6.jpg" },
-    { "name": "Bagels", "src": "/images/bagels.jpg" },
-    { "name": "Single bagel", "src": "/images/single-bagel.jpg" },
-    { "name": "Carrots", "src": "/images/carrots.jpg" },
-    { "name": "Latte art", "src": "/images/latte-art.jpg" },
-    { "name": "Noodles", "src": "/images/noodles.jpg" },
-    { "name": "Branches", "src": "/images/branches.png" }
+    { "name": "The School Pedagogy", "src": "/images/art.jpg" },
+    { "name": "The Choir", "src": "/images/c4.jpg" },
+    { "name": "Students in class", "src": "/images/class.jpg" },
+    { "name": "The Holy Liturgy", "src": "/images/d4.jpg" },
+    { "name": "Award Ceremony in the Presence of his Holiness", "src": "/images/e1.jpg" },
+    { "name": "Culture Day", "src": "/images/f2.jpg" },
+    { "name": "Flad Day", "src": "/images/fd.jpg" },
+    { "name": "Sport Festival", "src": "/images/sp.jpg" },
+    { "name": "Students", "src": "/images/v.jpg" },
+    { "name": "Mornings at St John", "src": "/images/fd2.jpg" },
+    { "name": "More graduation pics", "src": "/images/graduation.png" }
 ]
