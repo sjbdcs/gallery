@@ -20,6 +20,6 @@ title = "St John Photo Gallery"
     name = "Photo gallery (square)"
     url = "/photos_s/"
   [[menu.main]]
-    identifier = "home"
+    identifier = "top"
     name = "Home"
     url = "https://sjbdcs.org"
